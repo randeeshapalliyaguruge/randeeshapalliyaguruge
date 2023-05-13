@@ -1,12 +1,15 @@
 ![github-header-image](https://github.com/randeeshapalliyaguruge/randeeshapalliyaguruge/assets/97628178/878a8d33-8289-49d1-b0f9-98ccabadc4b4)
 
-
 <h1 align="center">Hi 👋, I'm Randeesha Palliyaguruge</h1>
-<h3 align="center">A passionate Undergraduate Student at Staffordshire University UK(APIIT Sri Lanka)</h3>
+<h3 align="center">A passionate undergraduate Software Engineering student at Staffordshire University UK(APIIT Sri Lanka)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randeeshapalliyaguruge&label=Profile%20views&color=0e75b6&style=flat" alt="randeeshapalliyaguruge" /> </p>
 
 - 🔭 I’m currently working on [EmpowerLanka](https://github.com/randeeshapalliyaguruge/EmpowerLanka)
+
+- 🌱 I’m currently learning **Laravel Jetstream, Laravel Livewire, Alpine.js, Tailwind CSS**
+
+- 📫 How to reach me **nrwpguruge@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
