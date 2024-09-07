@@ -1,7 +1,7 @@
 ![github-header-image](https://github.com/randeeshapalliyaguruge/randeeshapalliyaguruge/assets/97628178/878a8d33-8289-49d1-b0f9-98ccabadc4b4)
 
 <h1 align="center">Hi 👋, I'm Randeesha Palliyaguruge</h1>
-<h3 align="center">A passionate undergraduate Software Engineering student at Staffordshire University UK(APIIT Sri Lanka)</h3>
+<h3 align="center">Associate Software Engineer at Adlux Software Pvt Ltd.  BEng (Hons) Software Engineering, first class Staffordshire University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randeeshapalliyaguruge&label=Profile%20views&color=0e75b6&style=flat" alt="randeeshapalliyaguruge" /> </p>
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/randeesha-palliyaguruge-2328b2201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/randeesha-palliyaguruge-2328b2201/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/randeesha-palliyaguruge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/randeesha-palliyaguruge-2328b2201/" height="30" width="40" /></a>
 <a href="https://web.facebook.com/nethumrandeesha.walawepalliyaguruge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/nethumrandeesha.walawepalliyaguruge" height="30" width="40" /></a>
 <a href="https://instagram.com/_randeesha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_randeesha_" height="30" width="40" /></a>
 </p>
