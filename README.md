@@ -5,9 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randeeshapalliyaguruge&label=Profile%20views&color=0e75b6&style=flat" alt="randeeshapalliyaguruge" /> </p>
 
-- 🔭 I’m currently working on [EmpowerLanka](https://github.com/randeeshapalliyaguruge/EmpowerLanka)
 
-- 🌱 I’m currently learning **Laravel Jetstream, Laravel Livewire, Alpine.js, Tailwind CSS**
+- 🔭 **Laravel Jetstream, Laravel Livewire, Alpine.js, Tailwind CSS**
 
 - 📫 How to reach me **nrwpguruge@gmail.com**
 
